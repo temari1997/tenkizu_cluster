@@ -15,6 +15,7 @@ seaborn = "^0.11.2"
 tqdm = "^4.64.0"
 scikit-learn = "^1.1.2"
 ipykernel = "^6.15.1"
+netCDF4 = "^1.6.0"
 
 
 [build-system]
